@@ -1,0 +1,27 @@
+{
+	"color_scheme": "Packages/Dracula Theme/Dracula.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"font_size": 10,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"rulers": [80],
+	"auto_match_enabled": true,
+	"line_padding_bottom": 1,
+	"scroll_pas_end": false,
+	"draw_indent_guides": true,
+	"indent_guide_options": ["draw_active"],
+	"save_on_focus_lost": true,
+	"tab_completion": true,
+	"show_tab_close_buttons": true,
+	"always_prompt_for_file_reload": false,
+	"open_files_in_new_window": true,
+	"create_window_at_startup": true,
+	"show_full_path": true,
+	"show_errors_inline": true,
+	"show_git_status": true,
+	"preview_on_click": true,
+}
